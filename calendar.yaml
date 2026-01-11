@@ -1,0 +1,62 @@
+title : Semester 3
+weeks :
+  - 2026-01-05 :
+      title : -1
+      type  : Registration
+  - 2026-01-12 :
+      title : 0
+      type  : Induction
+  - 2026-01-19 :
+      title : 1
+      type  : Tuition
+  - 2026-01-26 :
+      title : 2
+      type  : Tuition
+  - 2026-02-02 :
+      title : 3
+      type  : Tuition
+  - 2026-02-09 :
+      title : 4
+      type  : Tuition
+  - 2026-02-16 :
+      title : Reading 1
+      type  : Reading
+  - 2026-02-23 :
+      title : 5
+      type  : Tuition 
+  - 2026-03-02 :
+      title : 6
+      type  : Tuition
+  - 2026-03-09 :
+      title : Reading 2
+      type  : Reading
+  - 2026-03-16 :
+      title : 7
+      type  : Tuition
+  - 2026-03-23 :
+      title : 8
+      type  : Tuition
+  - 2026-03-30 :
+      title : Easter 1
+      type  : Reading
+  - 2026-04-06 :
+      title : Easter 2
+      type  : Reading
+  - 2026-04-13 :
+      title : 9
+      type  : Tuition
+  - 2026-04-20 :
+      title : 10
+      type  : Tuition
+  - 2026-04-27 :
+      title : 11
+      type  : Tuition
+  - 2026-05-04 :
+      title : 12
+      type  : Tuition
+  - 2026-05-11 :
+      title : Reading 5
+      type  : Reading 
+  - 2026-05-18 :
+      title : Reading 6
+      type  : Reading
