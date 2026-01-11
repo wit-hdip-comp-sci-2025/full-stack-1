@@ -1,0 +1,14 @@
+slack: https://setu-hdip-comp-sci-24.slack.com/archives/C088B00V5U1
+credits: Eamonn de Leastar
+github: https://github.com/edeleastar/full-stack-oth-25/blob/main
+moodle: https://moodle.setu.ie/course/section.php?id=7358585
+zoom: https://setu-ie.zoom.us/my/edeleastar
+youtube: https://www.youtube.com/playlist?list=PLEuhMaR29LyDRxN59DRFyGFpCA9_4ukqO
+podcast: https://open.spotify.com/show/47KruclLPfCImcVZIxNP8Z?si=HZbz16MoSsG_cAKzX8-O5g
+parent: course/setu-hdip-comp-sci-2025
+auth: 1
+llm: 2
+ignorepin: 2125
+icon:
+  type: la:server
+  color: 2D5BA6
